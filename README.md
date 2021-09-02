@@ -11,6 +11,9 @@ Easy-to-play game written in pure JS, but possibly this is not what you want to 
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLOBAL score. After that, it's the next player's turn
 - The first player to reach 50 points on GLOBAL score wins the game
 
+
+![WIN](https://user-images.githubusercontent.com/79856530/131806311-7df11d93-e9ea-471a-9bb0-45ff674cc85f.png)
+
 ## How can I play?
 
 Oh it's simple, really, just follow [this link](https://copkh.github.io/PIG_GAME/), and you end up on a lovely piggy farm, where you can start the game. I enclosed a screenshot, so you don't get lost.
