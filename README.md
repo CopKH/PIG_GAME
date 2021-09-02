@@ -3,6 +3,7 @@ Fun 2 player game with the dice in the center 🎲 . Always this stupid random d
 
 Easy-to-play game written in pure JS, but possibly this is not what you want to know about but more about the rules of the game.
 
+![PIG](https://user-images.githubusercontent.com/79856530/131805035-ba86774d-faab-4226-be74-6aeba541d761.png)
 ## Rules of the game
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
